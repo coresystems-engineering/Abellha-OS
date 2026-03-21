@@ -3,6 +3,7 @@
 *Please, download this file!
 -------------------------------
 *The cause is that it will be confuse if not downloaded!*
+**Hey, man, wanna take a look of how will be the system? Take a look on Screenshots folders!**
 
 Firstly, install Debian or Ubuntu on your PC that will use Abéllha OS, recommended on **GNOME Session**. After the installation open the terminal and type or paste: sudo nano /etc/os-release type your password and when nano appears change everything from the original to this 
 
@@ -85,3 +86,16 @@ export PS1="\[\e[1;93m\]\u@\h\[\e[0m\]:\[\e[1;34m\]\w\[\e[0m\]\$ "
 Now grub, ahh grub. So download my grub custom image, on grub folder (note, if you think the images strange, that's because they were made on GIMP, and the cursor too). After downloaded, obviously, another nano **sudo nano /etc/default/grub**, and add *GRUB_BACKGROUND="/boot/grub/abellha_grub.png"*. If it has an GRUB_BACKGROUND="" replace to GRUB_BACKGROUND="/boot/grub/abellha_grub.png". Don't change nothing else on the file. And to finalize sudo update-grub. Now turn off your PC and restart again. It will appear Debian GNU/Linux Trixie, or anything else, click E key and it will appear in such text editor. and you try find of the Debian GNU/Linux Trixie or if it is Bookworm, or if is Ubuntu, look to Ubuntu, and change to Abéllha OS 1 Xenon GNU/Linux. (Xenon is the version codename, such version is 1). Do not remove any "" or anything else of the file. at the bottom, click the key that means to run with the changes or anything that is a synonymous of it.
 
 Now the wallpaper. You will use the same wallpaper as grub, but to take it tidy, its to download on Wallpapers folder(it have an another blue version of it).
+Set as wallpaper, right clicking the file and set as wallpaper.
+But… This looks Debian yet, its better to use Debian than this all process!. WAIT! Now is the part that the system will look as the Screenshots! Open the extension manager and if not installed install:
+- ArcMenu
+- Burn My Windows
+- Compiz alike magic lamp effect
+- Compiz windows effect
+- Dash to Panel
+- Desktop Icons NG (DING)
+- Desktop Logo
+So lets customizate to Abéllha look. Click in the gear next to the Dash to Panel, and it will open a new window. Click to hide activities button, and apps button(the first and second one)
+Now go to Style and change App Icon Padding to 8 px, and if you want, active Animate Hovering Apps Icons, and if not actived, active Highlight Hovering Apps.
+In execution indicatior (in use apps)(or a synonymous) change it to lines, and to non in use to dots. Now click on override panel theme background color, click in custom and change the color to: #1E2529 (put in a little label at the right top).
+Now close Dash to Panel window, and now enter in the ArcMenu gear. And inside go to, menu now menu layout and modern menu layouts 
