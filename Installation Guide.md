@@ -1,3 +1,5 @@
+# Abéllha OS Installation Guide
+-------------------------------
 Firstly, install Debian or Ubuntu on your PC that will use Abéllha OS, recommended on **GNOME Session**. After the installation open the terminal and type or paste: "**sudo nano /etc/os-release**" type your password and when nano appears change everything from the original to this 
 
 PRETTY_NAME="Abéllha OS"
