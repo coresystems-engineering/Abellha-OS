@@ -110,4 +110,5 @@ flatpak install flathub io.github.realmazharhussain.GdmSettings
 
 And flatpak run io.github.realmazharhussain.GdmSettings
 It will open an app. in it choose the blue wallpaper version on Wallpapers, click on apply and reboot.
-And the **LAST** thing. Open GNOME Tweaks,go to Windows and active, Maximize and minimize. Now pick the Abéllha Cursor on Cursor folder and put
+And the **LAST** thing. Open GNOME Tweaks,go to Windows and active, Maximize and minimize. Now pick the Abéllha Cursor on Cursor folder and put Abéllha OS Cursor on ~/.icons folder, and if it not exists, go to terminal, cd ~/ and sudo mkdir .icons, close it, and move the Abélla OS Cursor folder to it. Close and open Tweaks, and choose Abellha_Xenon.
+And its DONE!
