@@ -5,7 +5,7 @@ Please, download this file!
 *The cause is that it will be confuse if not downloaded!*
 ***Note**:Abéllha OS 1 Xenon. Abéllha OS first version.*
 **Hey, man, wanna take a look of how will be the system? Take a look on Screenshots folders!**
-
+----------------------------------------------------------------------------------------------------------------------------------
 Firstly, install Debian or Ubuntu on your PC that will use Abéllha OS, recommended on **GNOME Session**. After the installation open the terminal and type or paste: sudo nano /etc/os-release type your password and when nano appears change everything from the original to this 
 
 PRETTY_NAME="Abéllha OS"
